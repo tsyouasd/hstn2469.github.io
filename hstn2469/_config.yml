@@ -21,12 +21,19 @@ description: 不忘初心、方得始终
 avatarTitle: 东北出马实录
 avatarDesc: 不忘初心、方得始终
 
+author: JordanCZ
+
+# 语言
+language: zh-Hans
+
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.hstn2469.cn/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tsyouasd
+github_username:  tsyouasd
+
+encoding: utf-8
 
 # Build settings
 markdown: kramdown

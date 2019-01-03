@@ -5,11 +5,11 @@ layout: default
 <article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <div class="post-meta">
-      <time datetime="{{page.date | date: date_to_xmlschema}}" itemprop="datePublished" class="post-meta__date date">{{page.date | date: "%F"}}</time> &#8226; <span class="post-meta__tags tags">{{page.tags | join:' '}}</span>
+      <time datetime="{{page.date | date: date_to_xmlschema}}" itemprop="datePublished" class="post-meta__date date">{{page.date | date: "%F"}} {{page.tags | join:' '}}
+       |  阅读：<span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-spin"></i></span>次</time> 
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
+  </header> 
   <section class="post">
     {{ content }}
   </section>
