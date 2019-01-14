@@ -38,8 +38,7 @@ encoding: utf-8
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+ 
 
 
 baidu-analysis: 3feafcfe9dc92d24d9ff078707570959
@@ -74,7 +73,7 @@ nav:
 
 
 # Pagination 分页
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate,jekyll-feed,jekyll-sitemap]
 paginate: 10
 paginate_path: "page/:num/"
  

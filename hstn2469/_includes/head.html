@@ -16,6 +16,7 @@
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   
   <meta baidu-gxt-verify-token="96685c16a8c5809394373e86c452c4db">
+  <meta name="google-site-verification" content="8FxPBBKlnu4RDMvM3ljuky3L-Tzoj5F5tvPlSNFpgrs" />
   
   <link rel="icon" type="image/jpg" href="../assets/images/favicon.jpg" />
   <link href="../assets/images/favicon.jpg" rel="shortcut icon" type="image/jpg">
@@ -26,6 +27,6 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   
- 
+  {% seo %}
   
 </head>
