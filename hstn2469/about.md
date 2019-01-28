@@ -5,11 +5,13 @@ title: 东北出马实录
 
  <h3><strong>东北出马实录-胡四太奶</strong></h3>
   <div align="center" class="img">
-  <img src="../assets/images/avatar.jpg" width="130px" height="150px" /> 
+  <a href="https://book.qidian.com/info/1010763616" alt="东北出马实录" target="_blank">
+    <img src="../assets/images/avatar.jpg" width="130px" height="150px" /> 
+  </a>
 </div>
 &nbsp;🔹长期生活在中国以北地区
 
-&nbsp;🔹白山人首发史上最真实的灵异小说——《东北出马实录》胡四太奶，作者微信：hstn2469，
+&nbsp;🔹白山人首发史上最真实的灵异小说——<a href="https://book.qidian.com/info/1010763616" alt="东北出马实录" target="_blank">《东北出马实录]》</a>胡四太奶，作者微信：hstn2469，
 免费治疗：心脏病、皮肤病、脑梗塞、经络不通、食道炎、风湿、膝盖疼痛等....
 
 &nbsp;🔹我不仅是一名出马弟子，我还是一位"医生"，免费为天下有缘人治疗实病！
@@ -44,12 +46,15 @@ title: 东北出马实录
 
  
   <div align="center">
-   <img src="../assets/images/acitvity/a_1546239852056.jpg" width="500" height="670px"/> 
-   <img src="../assets/images/acitvity/a_1546239934176.jpg" width="500" height="670px"/> 
-   <img src="../assets/images/acitvity/a_1546239948496.jpg" width="500" height="670px"/> 
-   <img src="../assets/images/acitvity/a_1546239991328.jpg" width="500" height="670px"/> 
+   <img src="../assets/images/acitvity/a_1546239852056.jpg" width="500" height="670px"/><br>
+   <img src="../assets/images/acitvity/a_1546239934176.jpg" width="500" height="670px"/><br>
+   <img src="../assets/images/acitvity/a_1546239948496.jpg" width="500" height="670px"/><br> 
+   <img src="../assets/images/acitvity/a_1546239991328.jpg" width="500" height="670px"/><br> 
    <img src="../assets/images/acitvity/logo.jpg" width="500" height="650px"/>  
 </div>
+ 
+
+[东北出马实录]: https://book.qidian.com/info/1010763616  "东北出马实录-胡四太奶"
  
   
  

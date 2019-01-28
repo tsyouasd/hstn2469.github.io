@@ -29,11 +29,11 @@ tag: 修行路
 
  
   <div align="center">
-   <img src="../../../assets/images/acitvity/100000.jpg" width="80%"/> 
-   <img src="../../../assets/images/acitvity/100001.jpg" width="80%" /> 
-   <img src="../../../assets/images/acitvity/100002.jpg" width="80%"/> 
-   <img src="../../../assets/images/acitvity/100003.jpg" width="80%"/> 
-   <img src="../../../assets/images/acitvity/100004.jpg" width="80%"/>  
-   <img src="../../../assets/images/acitvity/100005.jpg" width="80%"/>  
+   <img alt="实病免费治" src="../../../assets/images/acitvity/100000.jpg" width="80%"/> 
+   <img alt="实病免费治" src="../../../assets/images/acitvity/100001.jpg" width="80%" /> 
+   <img alt="实病免费治" src="../../../assets/images/acitvity/100002.jpg" width="80%"/> 
+   <img alt="实病免费治" src="../../../assets/images/acitvity/100003.jpg" width="80%"/> 
+   <img alt="实病免费治" src="../../../assets/images/acitvity/100004.jpg" width="80%"/>  
+   <img alt="实病免费治" src="../../../assets/images/acitvity/100005.jpg" width="80%"/>  
 </div>
  
