@@ -156,10 +156,13 @@ h4 {
 h5 {
   font-size: 1em; }
 
+ 
+
 p {
   margin-bottom: 1.3em;
-  line-height: 1.7em;
+  line-height: 2.7em;
   padding-left: 10px;
+  font-size: 1.1em;
 }
 
 strong {
@@ -368,6 +371,7 @@ img::-moz-selection {
     background-color: #FFF;
     text-indent: 10px;
     color: #999999; 
+    line-height: 1.7em;
   }
 
   .intro {
