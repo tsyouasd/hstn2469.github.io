@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《六祖坛经》全文
-date: 2018-08-01  
+date: 2018-08-07  
 tag: 佛教经
 --- 
 
