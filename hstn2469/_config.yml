@@ -33,7 +33,7 @@ url: "http://www.hstn2469.cn/" # the base hostname & protocol for your site, e.g
 twitter_username: tsyouasd
 github_username:  tsyouasd
 
-encoding: utf-8
+
 
 # Build settings
 markdown: kramdown
@@ -77,6 +77,6 @@ plugins: [jekyll-paginate,jekyll-feed,jekyll-sitemap]
 paginate: 10
 paginate_path: "page/:num/"
  
-
+encoding: utf-8
 
           

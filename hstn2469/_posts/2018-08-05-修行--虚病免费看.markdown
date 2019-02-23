@@ -5,7 +5,7 @@ date: 2018-08-05
 tag: 修行路
 ---
 
- <div align="center">
+<div align="center">
    <img src="../../../assets/images/acitvity/logo.jpg" width="80%" />  
 </div>
 
