@@ -1470,6 +1470,18 @@ nav a {
   -moz-transform: translateY(-3px);
   transform: translateY(-3px);
 }
+
+.nav-fotter-item{
+  position:fixed; 
+  margin:auto;left:10%; 
+  bottom:0px; 
+  width:80%; 
+  height:100px; 
+  z-index:9999;
+  color: white;
+  text-align:center;
+}
+
 /*导航按钮-end*/
 
 /*下面这段是实现：

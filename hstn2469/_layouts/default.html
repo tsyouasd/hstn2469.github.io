@@ -14,8 +14,7 @@
               </a>
             </i>
             {% for item in site.nav %}
-                <i class="nav-menu-item">
-
+                <i class="nav-menu-item"> 
                   <a href="{{item.url}}" title="{{item.description}}" class="btn-mobile-menu__icon">
                       {{item.title}}
                   </a>
@@ -23,8 +22,9 @@
             {% endfor %}
           </nav>
       </div>
+
     </span>
-    
+ 
     {% include side-panel.html %}
 
     <div class="content-wrapper">
@@ -34,8 +34,7 @@
         </div>
     </div>
     
-    {% include external.html %}
-    
+    {% include external.html %}    
   </body>
 
 </html>
