@@ -30,3 +30,15 @@ tag: 佛教经
 `空`，是人生的最高境界。只有空的杯子才可以装水，空的房子才可以住人。每一个容器的利用价值在于它的空。空是一种度量和胸怀，空是有的可能和前提，空是有的最初因缘。佛经里有`“一空万有”`和`“真空妙有”`的禅理。**人生如茶，空杯以对，才有喝不完的好茶，才有装不完的欢喜和感动。**
 
 **佛说一切法，为度一切心，若无一切心，何用一切法**。读懂了淡定，才算读懂了人生。生活的主题，就是面对复杂保持欢喜，少了弯路，也就错过了风景。现在事，现在心，随缘即可;未来事，未来心，何须劳心。
+
+
+<!--PC打分版-->
+<div id="SOHUCS" sid="佛说一切法，为渡一切心"></div>
+<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+window._config = { showScore: true };
+window.changyan.api.config({
+appid: 'cyu89hE1i',
+conf: 'prod_69d4c2c1f5ff55fb239860906a976bbe'
+});
+</script>

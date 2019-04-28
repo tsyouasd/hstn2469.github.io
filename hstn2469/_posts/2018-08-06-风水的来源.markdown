@@ -132,3 +132,14 @@ tag: 原创
    <img alt="重阳节" src="../../../assets/images/acitvity/1549991996079.jpg" width="98%"/><br>    
 </div>
  
+
+ <!--PC打分版-->
+<div id="SOHUCS" sid="温馨过往"></div>
+<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+window._config = { showScore: true };
+window.changyan.api.config({
+appid: 'cyu89hE1i',
+conf: 'prod_69d4c2c1f5ff55fb239860906a976bbe'
+});
+</script>

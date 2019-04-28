@@ -16,3 +16,14 @@ tag: 原创
 <p class="text-red">
 居家风水、阴债风水、办公室风水、商业风水、店铺风水、居家摆设等等的风水，可关注公众号:东北出马实录 微信:hstn2469
 </p>
+
+<!--PC打分版-->
+<div id="SOHUCS" sid="温馨过往"></div>
+<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+window._config = { showScore: true };
+window.changyan.api.config({
+appid: 'cyu89hE1i',
+conf: 'prod_69d4c2c1f5ff55fb239860906a976bbe'
+});
+</script>
