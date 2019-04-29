@@ -48,17 +48,5 @@ tag: 修行路
    <img alt="出马仙现场" src="../../../assets/images/acitvity/1552671588378.jpg" width="80%"/><br> 
    <img alt="出马仙现场" src="../../../assets/images/acitvity/1552671607775.jpg" width="80%"/><br> 
 </div>   
-
-<!--PC打分版-->
-<div id="SOHUCS" sid="温馨过往"></div>
-<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
-<script type="text/javascript">
-window._config = { showScore: true };
-window.changyan.api.config({
-appid: 'cyu89hE1i',
-conf: 'prod_69d4c2c1f5ff55fb239860906a976bbe'
-});
-</script>
-
-
+ 
 [东北出马实录]: https://book.qidian.com/info/1010763616  "东北出马实录-胡四太奶"

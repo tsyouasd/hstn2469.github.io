@@ -79,14 +79,4 @@ tag: 修行路
 </div>
 **含金量杠杠高！同样的数量、同样的价钱、不一样的效果，这种大元宝如果换算成普通的小元宝，1个大的=200个普通小的元宝！  我们追求的是更好的效果！**
 
- 
-<!--PC打分版-->
-<div id="SOHUCS" sid="温馨过往"></div>
-<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
-<script type="text/javascript">
-window._config = { showScore: true };
-window.changyan.api.config({
-appid: 'cyu89hE1i',
-conf: 'prod_69d4c2c1f5ff55fb239860906a976bbe'
-});
-</script>
+  
